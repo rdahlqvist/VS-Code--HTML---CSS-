@@ -1,0 +1,55 @@
+body {
+
+    background-color: aquamarine;
+    font-family: Arial, sans-serif;
+    padding: 0;
+    margin: 0;
+    
+}
+
+h3 {
+    font-size: 45px;
+    background-color: blue;
+
+}
+
+#ListaIdioter{
+    text-align: center;
+    font-size: 25px;
+    color: green;
+}
+
+h1 { 
+    font-size: 50px;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+main{
+    background-color: blanchedalmond;
+    width: 75%;
+    
+}
+p{
+    text-align: center;
+}
+
+#bild1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+
+}
+
+#p1{
+    font-size: 25px;
+    text-align: center;
+    background-color: white;
+}
+
+
+
